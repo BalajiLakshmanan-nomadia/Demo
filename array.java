@@ -8,5 +8,6 @@ class array{
             System.out.println(arr[i]);
             System.out.println(arr[i]);
         }
+        System.out.println(arr);
     }
 }
